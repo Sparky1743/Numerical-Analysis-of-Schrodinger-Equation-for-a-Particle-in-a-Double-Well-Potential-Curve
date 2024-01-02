@@ -1,0 +1,1 @@
+# Numerical-Analysis-of-Schr-dinger-Equation-for-a-Particle-in-a-Double-Well-Potential-Curve
